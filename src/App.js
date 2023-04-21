@@ -1,4 +1,6 @@
+import 'bulma/css/bulma.css';
 import ProfileCard from "./ProfileCard";
+
 import ArsenalLogo from "./images/logo_arsenal.jpg";
 import ArsenalHeader from "./images/header_arsenal.jpg"
 import RealMadridLogo from "./images/logo_realmadrid.jpg";
